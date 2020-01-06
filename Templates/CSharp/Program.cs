@@ -7,7 +7,7 @@ namespace SpaceBattlez.CSharp
 	{
 		static void Main()
 		{
-		    IBot bot = new Bot();
+		    IBot bot = new SimpleBot();
 			Console.WriteLine("ready!");
             
 		    string line;
