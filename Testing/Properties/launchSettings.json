@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BattleBotTester": {
+      "commandName": "Project",
+      "commandLineArgs": "-p \"C:\\Dropbox\\Kode\\SpaceBattlez\\TestBots\\TestBot1\\bin\\release\\netcoreapp2.0\\win10-x64\\TestBot1.exe\""
+    }
+  }
+}
