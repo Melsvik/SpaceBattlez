@@ -17,5 +17,4 @@ For BasicBot it will be:
 Zip the files and call the zip file the same as the Bot, in this case BasicBot.zip.
 Upload the zip to www.spacebattlez.com
 
-![](https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png =250x250)
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" width="400" height="790">
