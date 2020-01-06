@@ -1,2 +1,2 @@
 # SpaceBattlez
-Frameworks and other helpfull stuff for www.SpaceBattlez.com
+Templates and other helpfull stuff for www.SpaceBattlez.com
